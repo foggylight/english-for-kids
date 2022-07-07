@@ -1,6 +1,6 @@
 # English for kids
 
-> This is is an educational project - an app for kids to learn English words. In the side menu you can log in to access the admin panel, where you can add and edit words and categories.
+> This is an educational project - an app for kids to learn English words. In the side menu you can log in to access the admin panel, where you can add and edit words and categories.
 
 - [Deploy](https://foggylight-english-for-kids-base.netlify.app/) - If you open the application for the first time, please wait 15-30 sec for the database to start!
 
